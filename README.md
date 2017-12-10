@@ -1,7 +1,8 @@
 # Snake-Game
 A simple Snake game created using p5.js (based on Daniel Shiffman's Youtube video).
 
-To play : <a href="https://speedy-snake.firebaseapp.com" target="_blank">speedy-snake.firebaseapp.com</a>
+To play : <a href="https://speedy-snake.firebaseapp.com" target="_blank">speedy-snake.firebaseapp.com</a> or
+<a href="https://akki777.github.io/Snake-Game/snake" target="_blank">Snake-Game Github Page</a>
 
 <b> Improvements : </b>
 <ul>
